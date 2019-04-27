@@ -5,5 +5,6 @@ public class DuGuJiuJian {
         System.out.println("lihuchongjuexue");
         System.out.println("linhuchongjuexue");
         System.out.println("linhuchongbishengjujji");
+        System.out.println("dugujiujianjuexue linhucho");
     }
 }
